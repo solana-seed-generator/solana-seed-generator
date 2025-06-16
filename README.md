@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  13 June link is active
+
+
+Update:  16.06.2025 I've tested it, and the link is now clickable.
